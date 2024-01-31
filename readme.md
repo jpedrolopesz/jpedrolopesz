@@ -1,59 +1,77 @@
-## Olá, meu nome é {seu nome}!
+# Hi! I'm happy to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### ⚙️ GitHub Analytics
 
-<table>
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
+
+## Tools
+<table align="center">
   <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <br>PHP
     </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="rust" />
+      <br>Rust
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
+      <br>JavaScript
+    </td>
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+      <br>Python
+    </td>
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+      <br>JAVA
+    </td>
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
   </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+      <br>Laravel
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="tauri" />
+      <br>Tauri
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+      <br>Linux
+    </td> <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+     
+ </tr>
 </table>
 
---- 
 
-### 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+-----
 
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
