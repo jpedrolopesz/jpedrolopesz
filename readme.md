@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     </td>
 <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+        <br>Docker
     </td>
     
 <td align="center" width="96">
