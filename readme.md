@@ -1,47 +1,14 @@
 # 👋 Olá, eu sou o João Pedro Lopes Zamonelo
 
-🎯 **Desenvolvedor iOS (Freelancer)** focado em construção de aplicativos com **SwiftUI**, **SwiftData** e arquitetura **MVVM**.  
-Hoje meu principal projeto é o **Zamo FlashCards**, um app de aprendizado adaptativo com repetição espaçada, IA e assinaturas, disponível na App Store.
-
-Sou estudante de **Engenharia de Software** e busco minha primeira oportunidade formal como **Desenvolvedor iOS / Mobile** para atuar na criação de produtos digitais e evoluir tecnicamente no ecossistema Apple.
-
----
-
 ### 🚀 O que estou fazendo
 
 - 📱 Desenvolvendo apps iOS com **SwiftUI**, **SwiftData**, **CloudKit**, **StoreKit 2** e **Combine**
-- 🧠 Explorando **aprendizado adaptativo**, **repetição espaçada (SM-2)** e **integração com IA**
 - 🌐 Mantendo projetos web em **PHP / Laravel** e **Vue.js** voltados para SaaS e plataformas de cursos
-- 📚 Cursando **Bacharelado em Engenharia de Software (UNIASSELVI)**
-
----
-
-### 💼 Áreas em que posso contribuir
-
-- Desenvolvimento de apps iOS em **SwiftUI**
-- Arquitetura **MVVM** e boas práticas de código
-- Integração com **CloudKit**, **StoreKit 2**, autenticação e APIs REST
-- Back-end em **PHP/Laravel** para dar suporte a apps mobile
-- Plataformas SaaS com assinaturas e multi-tenant
-
----
-
-### 💬 Pode falar comigo sobre
-
-- Desenvolvimento iOS com **SwiftUI**
-- Organização de projeto, arquitetura e estados em apps mobile
-- Integração de apps com **backend em PHP/Laravel**
-- SaaS, assinaturas recorrentes e pagamentos
-
----
+- 📚 Cursando **Bacharelado em Engenharia de Software**
 
 ### 📫 Como me encontrar
 
 - 💼 LinkedIn: [linkedin.com/in/joaozamonelo](https://linkedin.com/in/joaozamonelo)
-- 💻 GitHub: [jpedrolopesz](https://github.com/jpedrolopesz)
-- ✉️ E-mail: **jplopeszamonelo@hotmail.com**
-
----
 
 ## 🛠️ Techs & Tools (foco em Mobile)
 
@@ -92,19 +59,7 @@ Sou estudante de **Engenharia de Software** e busco minha primeira oportunidade 
   </tr>
 </table>
 
----
 
-### 📱 Destaque: Zamo FlashCards
-
-Aplicativo iOS de flashcards inteligentes com:
-
-- ✅ **SwiftUI + SwiftData**  
-- ✅ **Repetição espaçada (SM-2)**  
-- ✅ **Conteúdo gerado por IA**  
-- ✅ **Sincronização via iCloud (CloudKit)**  
-- ✅ **Assinaturas com StoreKit 2**  
-
-*(Em breve posso colocar aqui o link da App Store e screenshots do app 👀)*
 
 
 
