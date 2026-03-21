@@ -1,65 +1,103 @@
-# 👋 Olá, eu sou o João Pedro Lopes Zamonelo
 
-### 🚀 O que estou fazendo
+# 👋 Hi, I'm João Pedro Lopes Zamonelo
 
-- 📱 Desenvolvendo apps iOS com **SwiftUI**, **SwiftData**, **CloudKit**, **StoreKit 2** e **Combine**
-- 🌐 Mantendo projetos web em **PHP / Laravel** e **Vue.js** voltados para SaaS e plataformas de cursos
-- 📚 Cursando **Bacharelado em Engenharia de Software**
+### Full Stack Developer · Mobile, Web & AI Infrastructure
 
-### 📫 Como me encontrar
+Tenho entre 4 e 7 anos construindo produtos digitais do zero. Não me interessa apenas escrever código — o que me move é ver uma ideia se transformar em algo real, funcional e com impacto na vida de quem usa.
 
-- 💼 LinkedIn: [linkedin.com/in/joaozamonelo](https://linkedin.com/in/joaozamonelo)
+Atuo end-to-end no produto, da arquitetura do app iOS à plataforma web, passando por infraestrutura serverless e integração de IA generativa. Penso como produto, decido como engenheiro.
 
-## 🛠️ Techs & Tools (foco em Mobile)
+Cursando **Bacharelado em Engenharia de Software**.
+
+---
+
+### 🚀 O que estou construindo
+
+- 📱 Aplicativo **iOS** com **Swift** e **SwiftUI** — arquitetura, fluxos e integração com APIs REST
+- 🌐 Plataforma **web** com **Next.js**, **TypeScript** e **React** — performance e escalabilidade
+- 🗄️ Banco de dados e autenticação com **Supabase** (PostgreSQL)
+- 🤖 Integração de **IA Generativa** via **OpenAI API** com engenharia de prompts
+- ⚡ Infraestrutura **serverless** com **Cloudflare Workers** — cache, segurança e redução de custos
+- 🚢 **CI/CD** completo — Git, GitHub, App Store Connect, TestFlight e Xcode Cloud
+
+---
+
+### 🛠️ Stack
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="swift" />
+      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
       <br>Swift
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="ios" />
-      <br>iOS / Apple
+      <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="iOS" />
+      <br>iOS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="xcode" />
-      <br>Xcode
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-      <br>JavaScript
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
-      <br>PHP
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
       <br>Vue.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+      <br>Cloudflare
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
+      <br>Xcode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
   </tr>
 </table>
 
+---
 
+### 📫 Me encontre aqui
+
+- 💼 [linkedin.com/in/joaozamonelo](https://linkedin.com/in/joaozamonelo)
 
 
 
