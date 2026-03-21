@@ -3,7 +3,7 @@
 
 ### Full Stack Developer · Mobile, Web & AI Infrastructure
 
-Tenho entre 4 e 7 anos construindo produtos digitais do zero. Não me interessa apenas escrever código — o que me move é ver uma ideia se transformar em algo real, funcional e com impacto na vida de quem usa.
+Tenho entre 3 e 5 anos construindo produtos digitais do zero. Não me interessa apenas escrever código — o que me move é ver uma ideia se transformar em algo real, funcional e com impacto na vida de quem usa.
 
 Atuo end-to-end no produto, da arquitetura do app iOS à plataforma web, passando por infraestrutura serverless e integração de IA generativa. Penso como produto, decido como engenheiro.
 
