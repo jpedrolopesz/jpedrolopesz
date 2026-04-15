@@ -34,8 +34,24 @@ Atuo <strong>end-to-end</strong> no produto, da arquitetura mobile (iOS e Androi
 
 ## 🛠️ Stack
 
+<h4 align="center">📱 Mobile</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,kotlin,androidstudio,react,nextjs,typescript,vue,php,laravel,supabase,postgres,mysql,cloudflare,docker,git,xcode,linux,python" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,kotlin,androidstudio,react" />
+</p>
+
+<h4 align="center">🌐 Web & Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,vue,php,laravel" />
+</p>
+
+<h4 align="center">🗄️ Banco de Dados</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" />
+</p>
+
+<h4 align="center">⚙️ DevOps & Infraestrutura</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,git,xcode,linux,python" />
 </p>
 
 ---
