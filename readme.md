@@ -34,39 +34,8 @@ Atuo <strong>end-to-end</strong> no produto, da arquitetura mobile (iOS e Androi
 
 ## 🛠️ Stack
 
-<h4 align="center">📱 Mobile</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" title="Swift" />
-  <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="iOS" title="iOS" />
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" title="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" title="React Native" />
-</p>
-
-<h4 align="center">🌐 Web & Frontend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" title="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel" />
-</p>
-
-<h4 align="center">🗄️ Banco de Dados</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
-</p>
-
-<h4 align="center">⚙️ DevOps & Infraestrutura</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" title="Cloudflare" />
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" title="Xcode" />
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,kotlin,androidstudio,react,nextjs,typescript,vue,php,laravel,supabase,postgres,mysql,cloudflare,docker,git,xcode,linux,python" />
 </p>
 
 ---
